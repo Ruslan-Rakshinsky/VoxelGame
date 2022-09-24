@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/VoxelGame.dir/src/main.cpp.o CMakeFiles/VoxelGame.dir/src/Window.cpp.o -o VoxelGame  -lSDL2 -lOpenGL 
