@@ -1,0 +1,5 @@
+/home/eerror/src/VoxelGame/build/CMakeFiles/VoxelGame.dir
+/home/eerror/src/VoxelGame/build/CMakeFiles/package.dir
+/home/eerror/src/VoxelGame/build/CMakeFiles/package_source.dir
+/home/eerror/src/VoxelGame/build/CMakeFiles/edit_cache.dir
+/home/eerror/src/VoxelGame/build/CMakeFiles/rebuild_cache.dir
